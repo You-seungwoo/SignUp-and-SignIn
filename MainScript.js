@@ -1,4 +1,4 @@
-// import Enmap from "./enmap.js";
+// import Enmap from "./enmap.js"; enmap DB 불러오기
 
 const Button1 = document.getElementById('signupbutton')
 
