@@ -1,4 +1,4 @@
-import Enmap from "./enmap.js";
+// import Enmap from "./enmap.js";
 
 const Button1 = document.getElementById('signupbutton')
 
@@ -13,7 +13,3 @@ Button1.addEventListener('click', function() {
 		return
 	}
 });
-
-
-
-app.on('ready', createWindow);
