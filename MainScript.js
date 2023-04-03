@@ -1,4 +1,4 @@
-import Enmap from "./enmap.js"; // 여기에서 import 를 찾을 수 없다는 버그가 발생합니다
+const enmap = require('enmap'); //여기에서 requrire 가 없다는 버그가 발생합니다 : Uncaught ReferenceError: require is not defined
 
 const Button1 = document.getElementById('signupbutton')// sign up 버튼
 
